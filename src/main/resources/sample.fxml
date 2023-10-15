@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<VBox xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.openaispringjx.Controller">
+   <children>
+      <Pane prefHeight="257.0" prefWidth="423.0">
+         <children>
+            <Button fx:id="button" layoutX="67.0" layoutY="116.0" mnemonicParsing="false" text="Button1" />
+            <Label fx:id="label" layoutX="67.0" layoutY="158.0" prefHeight="17.0" prefWidth="289.0" text="None" />
+         </children>
+      </Pane>
+   </children>
+</VBox>
